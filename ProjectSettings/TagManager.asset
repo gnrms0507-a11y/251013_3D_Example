@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - PlayerBullet
+  - WaypointChecker
+  - EnemySpawnPoint
+  - Area
+  - PlayerHpBar
   layers:
   - Default
   - TransparentFX
@@ -12,11 +18,11 @@ TagManager:
   - Water
   - UI
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Cube
+  - Sphere
+  - Capsule
+  - Cylinder
+  - Plane
   - 
   - 
   - 
